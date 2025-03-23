@@ -1,0 +1,36 @@
+movie_id,movie_name,Phase_id,worldwide_box_office,año_lanzamiento,mes_estreno,fecha_estreno
+1,Iron Man,1,585171547,2008,5,2008-05-01
+2,The Incredible Hulk,1,265573859,2008,6,2008-06-01
+3,Iron Man 2,1,621156389,2010,5,2010-05-01
+4,Thor,1,449326618,2011,5,2011-05-01
+5,Captain America: The First Avenger,1,370569776,2011,7,2011-07-01
+6,The Avengers,1,1515100211,2012,5,2012-05-01
+7,Iron Man 3,2,1215392272,2013,5,2013-05-01
+8,Thor: The Dark World,2,644602516,2013,11,2013-11-01
+9,Captain America: The Winter Soldier,2,714401889,2014,4,2014-04-01
+10,Guardians of the Galaxy,2,770882395,2014,8,2014-08-01
+11,Avengers: Age of Ultron,2,1395316979,2015,5,2015-05-01
+12,Ant-Man,2,518858449,2015,7,2015-07-01
+13,Captain America: Civil War,3,1151918521,2016,5,2016-05-01
+14,Doctor Strange,3,676354481,2016,11,2016-11-01
+15,Guardians of the Galaxy Vol. 2,3,869113101,2017,5,2017-05-01
+16,Spider-Man: Homecoming,3,878346440,2017,7,2017-07-01
+17,Thor: Ragnarok,3,850482778,2017,11,2017-11-01
+18,Black Panther,3,1336494321,2018,2,2018-02-01
+19,Avengers: Infinity War,3,2048359754,2018,4,2018-04-01
+20,Ant-Man and the Wasp,3,623144660,2018,7,2018-07-01
+21,Captain Marvel,3,1129727388,2019,3,2019-03-01
+22,Avengers: Endgame,3,2797800564,2019,4,2019-04-01
+23,Spider-Man: Far From Home,3,1132532832,2019,7,2019-07-01
+24,Black Widow,4,379751655,2021,7,2021-07-01
+25,Shang-Chi and the Legend of the Ten Rings,4,432243292,2021,9,2021-09-01
+26,Eternals,4,402064929,2021,11,2021-11-01
+27,Spider-Man: No Way Home,4,1891108035,2021,12,2021-12-01
+28,Doctor Strange in the Multiverse of Madness,4,952224986,2022,5,2022-05-01
+29,Thor: Love and Thunder,4,760928081,2022,7,2022-07-01
+30,Black Panther: Wakanda Forever,4,853985546,2022,11,2022-11-01
+31,Ant-Man and the Wasp: Quantumania,5,463635303,2023,2,2023-02-01
+32,Guardians of the Galaxy Vol. 3,5,845163792,2023,5,2023-05-01
+33,The Marvels,5,199706250,2023,11,2023-11-01
+34,Deadpool & Wolverine,5,1338071348,2024,7,2024-07-01
+35,Captain America: Brave New World,5,289405738,2025,2,2025-02-01
